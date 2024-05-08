@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.4.0",
+    "puppeteer": "^22.6.5",
+    "selenium-webdriver": "^4.19.0"
+  },
+  "name": "website",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Thin Thin",
+  "license": "ISC",
+  "description": ""
+}
