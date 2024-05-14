@@ -1,0 +1,11 @@
+[2024-05-13T15:36:32.391] [DEBUG] default - ...................Application Starts.......................
+[2024-05-13T15:36:35.383] [DEBUG] default - https://www.southbankmosaics.com : does not use flex layout
+[2024-05-13T15:36:52.583] [DEBUG] default - https://www.uni-mainz.de : does not use flex layout
+[2024-05-13T15:36:52.838] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://www.slpolicy.org
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:15:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:53:32)
+[2024-05-13T15:36:52.839] [DEBUG] default - https://www.slpolicy.org : does not use flex layout

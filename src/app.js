@@ -7,10 +7,19 @@ function run (pagesToScrape) {
             }
             const browser = await puppeteer.launch();
             const page = await browser.newPage();
+            await page.setRequestInterception(true);
+            page.on('request', (request) => {
+                if (request.resourceType() === 'document') {
+                    request.continue();
+                } else {
+                    request.abort();
+                }
+            });
             await page.goto("https://news.ycombinator.com/");
             let currentPage = 1;
             let urls = [];
             while (currentPage <= pagesToScrape) {
+                await page.waitForSelector('a.storylink');
                 let newUrls = await page.evaluate(() => {
                     let results = [];
                     let items = document.querySelectorAll('a.storylink');
@@ -25,6 +34,7 @@ function run (pagesToScrape) {
                 urls = urls.concat(newUrls);
                 if (currentPage < pagesToScrape) {
                     await Promise.all([
+                        await page.waitForSelector('a.morelink'),
                         await page.click('a.morelink'),
                         await page.waitForSelector('a.storylink')
                     ])

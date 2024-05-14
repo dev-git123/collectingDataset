@@ -1,6 +1,7 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
+
 // Function to extract HTML and CSS
 async function extractHTMLAndCSS(url) {
     const browser = await puppeteer.launch();
@@ -28,6 +29,7 @@ async function main() {
         const url = 'https://css-tricks.com/snippets/css/a-guide-to-flexbox/'; // Replace with your desired URL
         const { html, css } = await extractHTMLAndCSS(url);
 
+        
         // Write HTML to file
         fs.writeFileSync('output.html', html);
         console.log('HTML saved to output.html');

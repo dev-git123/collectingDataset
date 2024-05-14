@@ -1,0 +1,1319 @@
+[2024-05-14T16:00:05.527] [DEBUG] default - ...................Application Starts.......................
+[2024-05-14T16:00:13.054] [DEBUG] default - https://www.musee-vix.fr : does not use flex layout
+[2024-05-14T16:00:17.425] [DEBUG] default - https://www.drive-master.com : does not use flex layout
+[2024-05-14T16:00:26.228] [DEBUG] default - https://www.davidkordanskygallery.com : does not use flex layout
+[2024-05-14T16:00:26.585] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://www.quangtuantn.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:00:26.586] [DEBUG] default - https://www.quangtuantn.com : does not use flex layout
+[2024-05-14T16:00:28.677] [DEBUG] default - https://www.bdpgabon.org : does not use flex layout
+[2024-05-14T16:00:31.567] [DEBUG] default - https://www.mainewriters.org : does not use flex layout
+[2024-05-14T16:00:34.441] [DEBUG] default - https://www.unilumin.com :  use flex layout
+[2024-05-14T16:00:38.639] [DEBUG] default - https://www.grapecat.com :  use flex layout
+[2024-05-14T16:00:52.845] [DEBUG] default - https://www.twenty3.media : does not use flex layout
+[2024-05-14T16:00:56.813] [DEBUG] default - https://www.devtopics.com : does not use flex layout
+[2024-05-14T16:01:25.318] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://www.motop.app
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:01:25.318] [DEBUG] default - https://www.motop.app : does not use flex layout
+[2024-05-14T16:01:29.283] [DEBUG] default - https://www.smilingmind.com.au :  use flex layout
+[2024-05-14T16:01:29.568] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://vawanghimpala.ga/
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:01:29.569] [DEBUG] default - http://vawanghimpala.ga/ : does not use flex layout
+[2024-05-14T16:01:33.198] [DEBUG] default - https://www.goldfieldsairservices.com : does not use flex layout
+[2024-05-14T16:01:34.633] [DEBUG] default - https://27f3673d-63d6-4ec9-b8af-f581abef0009.id.repl.co/ : does not use flex layout
+[2024-05-14T16:02:00.897] [DEBUG] default - https://www.gameinformer.com :  use flex layout
+[2024-05-14T16:02:03.923] [DEBUG] default - https://www.ginbox.io :  use flex layout
+[2024-05-14T16:02:04.265] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.straforkutu.online
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:02:04.265] [DEBUG] default - http://www.straforkutu.online : does not use flex layout
+[2024-05-14T16:02:07.874] [DEBUG] default - https://www.ruralliving.co.nz :  use flex layout
+[2024-05-14T16:02:20.769] [DEBUG] default - https://www.evangelisch.de : does not use flex layout
+[2024-05-14T16:02:23.024] [DEBUG] default - https://www.brunton.com : does not use flex layout
+[2024-05-14T16:02:25.896] [DEBUG] default - https://www.bestofkenya.com : does not use flex layout
+[2024-05-14T16:02:32.021] [DEBUG] default - https://www.visitnewportbeach.com : does not use flex layout
+[2024-05-14T16:02:34.772] [DEBUG] default - https://www.chuckdixon.net : does not use flex layout
+[2024-05-14T16:02:36.326] [DEBUG] default - https://www.schatz.senate.gov :  use flex layout
+[2024-05-14T16:02:37.151] [DEBUG] default - http://www.gg4288.com : does not use flex layout
+[2024-05-14T16:02:48.237] [DEBUG] default - https://www.furniss-foods.co.uk : does not use flex layout
+[2024-05-14T16:02:49.798] [DEBUG] default - https://porezna-uprava-33a1c.web.app/ :  use flex layout
+[2024-05-14T16:02:50.142] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://credisprezta.com/
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:02:50.142] [DEBUG] default - https://credisprezta.com/ : does not use flex layout
+[2024-05-14T16:02:56.386] [DEBUG] default - https://www.chimani.com : does not use flex layout
+[2024-05-14T16:02:56.792] [DEBUG] default - https://storageapi.fleek.co/f93bbabc-c9fe-416b-9895-abc3c414d6f4-bucket/tec10/index.html : does not use flex layout
+[2024-05-14T16:03:00.302] [DEBUG] default - https://www.asianjewishlife.org : does not use flex layout
+[2024-05-14T16:03:01.498] [DEBUG] default - https://doc-postale.firebaseapp.com/ : does not use flex layout
+[2024-05-14T16:03:06.686] [DEBUG] default - https://www.nhpeducationconsultants.com : does not use flex layout
+[2024-05-14T16:03:07.056] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.kapustakapaet.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:03:07.057] [DEBUG] default - http://www.kapustakapaet.com : does not use flex layout
+[2024-05-14T16:03:09.013] [DEBUG] default - http://daviplata15155.vastserve.com/ : does not use flex layout
+[2024-05-14T16:03:10.080] [DEBUG] default - https://dev-notificaciondeseguridaditau-py.pantheonsite.io : does not use flex layout
+[2024-05-14T16:03:11.294] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_CONNECTION_CLOSED at https://briderflitgal.telengalibandre.repl.co
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:03:11.295] [DEBUG] default - https://briderflitgal.telengalibandre.repl.co : does not use flex layout
+[2024-05-14T16:03:13.388] [DEBUG] default - https://www.kjvbible.org : does not use flex layout
+[2024-05-14T16:03:15.204] [DEBUG] default - https://www.cesarsway.com :  use flex layout
+[2024-05-14T16:03:15.971] [DEBUG] default - https://jlkjffjdfd.weebly.com/ : does not use flex layout
+[2024-05-14T16:03:17.341] [DEBUG] default - https://www.kitchenspal.com : does not use flex layout
+[2024-05-14T16:03:20.857] [DEBUG] default - http://www.nnml.fbcode.co : does not use flex layout
+[2024-05-14T16:03:24.724] [DEBUG] default - https://www.kom24.no : does not use flex layout
+[2024-05-14T16:03:29.123] [DEBUG] default - https://www.religionresourcesonline.org :  use flex layout
+[2024-05-14T16:03:36.879] [DEBUG] default - https://www.esparte.es : does not use flex layout
+[2024-05-14T16:03:39.248] [DEBUG] default - https://s.free.fr/bydryjmv : does not use flex layout
+[2024-05-14T16:03:41.639] [DEBUG] default - https://www.theedwinblackshow.com : does not use flex layout
+[2024-05-14T16:03:46.309] [DEBUG] default - https://www.prcouture.com : does not use flex layout
+[2024-05-14T16:03:49.650] [DEBUG] default - http://www.blue.blocktrail.com : does not use flex layout
+[2024-05-14T16:03:57.262] [DEBUG] default - https://www.alifeexotic.com :  use flex layout
+[2024-05-14T16:03:57.510] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://itaucardfaturadigital.app
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:03:57.511] [DEBUG] default - https://itaucardfaturadigital.app : does not use flex layout
+[2024-05-14T16:04:08.303] [DEBUG] default - https://www.cpaireland.ie : does not use flex layout
+[2024-05-14T16:04:08.644] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.amazcazm-co-jp.amazocon.zyknq.top/
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:04:08.645] [DEBUG] default - http://www.amazcazm-co-jp.amazocon.zyknq.top/ : does not use flex layout
+[2024-05-14T16:04:14.480] [DEBUG] default - https://www.eliteislandresorts.com : does not use flex layout
+[2024-05-14T16:04:17.973] [DEBUG] default - https://www.newworldsummit.eu : does not use flex layout
+[2024-05-14T16:04:20.818] [DEBUG] default - https://www.novaslp.net : does not use flex layout
+[2024-05-14T16:04:29.727] [DEBUG] default - https://www.mutfakci.az : does not use flex layout
+[2024-05-14T16:04:31.858] [DEBUG] default - https://www.tomflowers.ch : does not use flex layout
+[2024-05-14T16:04:35.740] [DEBUG] default - https://www.danieltolson.com/home.php : does not use flex layout
+[2024-05-14T16:04:39.947] [DEBUG] default - https://www.locotalent.co.uk :  use flex layout
+[2024-05-14T16:04:40.302] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.icloud-id-services.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:04:40.303] [DEBUG] default - http://www.icloud-id-services.com : does not use flex layout
+[2024-05-14T16:04:45.788] [DEBUG] default - https://www.vanderbeken-remodel.com :  use flex layout
+[2024-05-14T16:04:52.086] [DEBUG] default - https://www.dogwoodforest.com :  use flex layout
+[2024-05-14T16:04:53.180] [DEBUG] default - https://www.bellebrocante.com :  use flex layout
+[2024-05-14T16:04:58.993] [DEBUG] default - https://www.basicbeeboutique.com :  use flex layout
+[2024-05-14T16:04:59.357] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.api091901.camerac.xyz
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:04:59.358] [DEBUG] default - http://www.api091901.camerac.xyz : does not use flex layout
+[2024-05-14T16:05:02.626] [DEBUG] default - https://www.haiku-os.org : does not use flex layout
+[2024-05-14T16:05:17.289] [DEBUG] default - https://www.bridgesforpeace.com :  use flex layout
+[2024-05-14T16:05:22.714] [DEBUG] default - https://www.j-gega.com :  use flex layout
+[2024-05-14T16:05:26.305] [DEBUG] default - https://www.melbournepolytechnic.edu.au : does not use flex layout
+[2024-05-14T16:05:26.759] [DEBUG] default - https://summer-truth-0c62.sharefile1.workers.dev/ : does not use flex layout
+[2024-05-14T16:05:28.849] [DEBUG] default - https://opensea-nftx.godaddysites.com/ : does not use flex layout
+[2024-05-14T16:05:32.408] [DEBUG] default - https://www.dempseyandcarroll.com : does not use flex layout
+[2024-05-14T16:05:41.119] [DEBUG] default - https://www.flashtimer.de : does not use flex layout
+[2024-05-14T16:05:45.709] [DEBUG] default - https://www.git-tower.com :  use flex layout
+[2024-05-14T16:05:49.913] [DEBUG] default - https://www.vizwiz.com : does not use flex layout
+[2024-05-14T16:05:59.216] [DEBUG] default - https://www.olivetcollege.edu :  use flex layout
+[2024-05-14T16:06:05.011] [DEBUG] default - https://www.rokotustieto.fi :  use flex layout
+[2024-05-14T16:06:05.490] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.jscheide.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:06:05.490] [DEBUG] default - http://www.jscheide.com : does not use flex layout
+[2024-05-14T16:06:06.550] [DEBUG] default - http://43.134.167.94/v3/signin/identifier?dsh=s151927330%3a1679418096294349&amp%3bfollowup=https%3a%2f%2faccounts.google.com%2f%3f&amp%3bifkv=aqmjq7que0i0y0zqvxr-psd9dopzofl1azrhfrg8jha1fo5atztmzkxpzsdd8dd9wxed0vlkukpb&amp%3bpassive=1209600&amp%3bxrealip=107.178.232.242&continue=https%3a%2f%2faccounts.google.com%2f%3f&xrealip=107.21.207.171&flowname=weblitesignin&flowentry=servicelogin&ifkv=awnoghdd3bcsqfutafhqg0s1jix1d0uxzq28f0tkgnl9zhq-dfvgzt7n2gzib78ijohixqaaraothg : does not use flex layout
+[2024-05-14T16:06:07.042] [DEBUG] default - https://de20973.firebaseapp.com/ : does not use flex layout
+[2024-05-14T16:06:07.687] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://www.oohawaii.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:06:07.687] [DEBUG] default - https://www.oohawaii.com : does not use flex layout
+[2024-05-14T16:06:08.122] [DEBUG] default - https://square-term-b234.cyywhqbqsug.workers.dev/ : does not use flex layout
+[2024-05-14T16:06:13.547] [DEBUG] default - https://www.themezy.com : does not use flex layout
+[2024-05-14T16:06:13.803] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://ltauappkcx022.z16.web.core.windows.net/
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:06:13.804] [DEBUG] default - https://ltauappkcx022.z16.web.core.windows.net/ : does not use flex layout
+[2024-05-14T16:06:17.057] [DEBUG] default - https://www.rvinyl.com :  use flex layout
+[2024-05-14T16:06:24.442] [DEBUG] default - https://www.emva.org : does not use flex layout
+[2024-05-14T16:06:27.494] [DEBUG] default - https://www.elabeurope.eu : does not use flex layout
+[2024-05-14T16:06:34.850] [DEBUG] default - https://www.carolinarv.com : does not use flex layout
+[2024-05-14T16:06:37.131] [DEBUG] default - https://www.productioncars.com : does not use flex layout
+[2024-05-14T16:06:45.373] [DEBUG] default - https://www.blackwallstreet.org : does not use flex layout
+[2024-05-14T16:06:46.146] [DEBUG] default - https://ssd1ku1qyf.firebaseapp.com/ : does not use flex layout
+[2024-05-14T16:07:16.385] [ERROR] default - Error extracting HTML and CSS: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new Deferred (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:59:34)
+    at Deferred.create (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:21:16)
+    at new LifecycleWatcher (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\LifecycleWatcher.js:65:60)
+    at CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:136:29)
+    at CdpFrame.<anonymous> (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\decorators.js:98:27)
+    at CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:43)
+    at extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:20)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:07:16.386] [DEBUG] default - https://www.sammyfigueroa.com : does not use flex layout
+[2024-05-14T16:07:19.258] [DEBUG] default - https://www.responsive.co.nz : does not use flex layout
+[2024-05-14T16:07:20.345] [DEBUG] default - https://webs-logins.webflow.io/ : does not use flex layout
+[2024-05-14T16:07:20.685] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.saisaocard.co.jp.muchjv.top/ai/sign.php
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:07:20.686] [DEBUG] default - http://www.saisaocard.co.jp.muchjv.top/ai/sign.php : does not use flex layout
+[2024-05-14T16:07:22.815] [DEBUG] default - https://www.positanonews.it : does not use flex layout
+[2024-05-14T16:07:24.359] [DEBUG] default - https://fassilnetorg.fassillnetobo.repl.co/load-2.php : does not use flex layout
+[2024-05-14T16:07:26.455] [DEBUG] default - https://www.clutchjewelry.com : does not use flex layout
+[2024-05-14T16:07:47.825] [DEBUG] default - https://www.elearningfreak.com :  use flex layout
+[2024-05-14T16:08:18.074] [ERROR] default - Error extracting HTML and CSS: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new Deferred (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:59:34)
+    at Deferred.create (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:21:16)
+    at new LifecycleWatcher (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\LifecycleWatcher.js:65:60)
+    at CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:136:29)
+    at CdpFrame.<anonymous> (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\decorators.js:98:27)
+    at CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:43)
+    at extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:20)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:08:18.075] [DEBUG] default - https://www.oldtimer.ru : does not use flex layout
+[2024-05-14T16:08:48.303] [ERROR] default - Error extracting HTML and CSS: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new Deferred (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:59:34)
+    at Deferred.create (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:21:16)
+    at new LifecycleWatcher (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\LifecycleWatcher.js:65:60)
+    at CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:136:29)
+    at CdpFrame.<anonymous> (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\decorators.js:98:27)
+    at CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:43)
+    at extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:20)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:08:48.304] [DEBUG] default - https://www.nochintz.com : does not use flex layout
+[2024-05-14T16:09:09.164] [DEBUG] default - https://www.moley.com :  use flex layout
+[2024-05-14T16:09:17.867] [DEBUG] default - https://www.amberunmasked.com :  use flex layout
+[2024-05-14T16:09:20.900] [DEBUG] default - https://www.tealeaves.com : does not use flex layout
+[2024-05-14T16:09:28.950] [DEBUG] default - https://www.o-i.ch : does not use flex layout
+[2024-05-14T16:09:31.854] [DEBUG] default - https://www.rogerpincombe.com : does not use flex layout
+[2024-05-14T16:09:33.074] [DEBUG] default - http://www.americanprogress-office365.com : does not use flex layout
+[2024-05-14T16:09:41.132] [DEBUG] default - https://www.wissenschaftspodcasts.de : does not use flex layout
+[2024-05-14T16:09:41.435] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.nowayright.biz
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:09:41.436] [DEBUG] default - http://www.nowayright.biz : does not use flex layout
+[2024-05-14T16:10:08.674] [DEBUG] default - https://www.lockportjournal.com :  use flex layout
+[2024-05-14T16:10:10.007] [DEBUG] default - https://www.vraymaterials.co.uk : does not use flex layout
+[2024-05-14T16:10:10.366] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.tripadvisorsapp.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:10:10.367] [DEBUG] default - http://www.tripadvisorsapp.com : does not use flex layout
+[2024-05-14T16:10:13.687] [DEBUG] default - https://www.garj.org : does not use flex layout
+[2024-05-14T16:10:19.036] [DEBUG] default - https://www.temenos.com : does not use flex layout
+[2024-05-14T16:10:21.641] [DEBUG] default - https://www.tillyandthebuttons.com : does not use flex layout
+[2024-05-14T16:10:25.572] [DEBUG] default - https://www.addictsports.com : does not use flex layout
+[2024-05-14T16:10:31.237] [DEBUG] default - https://www.momus.hu : does not use flex layout
+[2024-05-14T16:10:34.785] [DEBUG] default - http://www.f0646469.xsph.ru : does not use flex layout
+[2024-05-14T16:10:40.543] [DEBUG] default - https://www.southernlinc.com : does not use flex layout
+[2024-05-14T16:10:54.734] [DEBUG] default - https://www.metropol.gov.co : does not use flex layout
+[2024-05-14T16:10:57.325] [DEBUG] default - https://www.amusingmaria.com : does not use flex layout
+[2024-05-14T16:10:57.572] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.colemanr.ga
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:10:57.573] [DEBUG] default - http://www.colemanr.ga : does not use flex layout
+[2024-05-14T16:11:07.721] [DEBUG] default - https://www.dressplace.net : does not use flex layout
+[2024-05-14T16:11:11.393] [DEBUG] default - https://www.coriell.org : does not use flex layout
+[2024-05-14T16:11:26.855] [DEBUG] default - https://www.gerstlauer-rides.de : does not use flex layout
+[2024-05-14T16:11:28.007] [DEBUG] default - http://my-business-106173-106262.square.site/ : does not use flex layout
+[2024-05-14T16:11:31.753] [DEBUG] default - https://www.rorkesdriftvc.com : does not use flex layout
+[2024-05-14T16:11:33.192] [DEBUG] default - https://www.higasiku1.net : does not use flex layout
+[2024-05-14T16:11:34.903] [DEBUG] default - https://www.notaminfo.com : does not use flex layout
+[2024-05-14T16:11:44.104] [DEBUG] default - https://www.sunset-harbour.com :  use flex layout
+[2024-05-14T16:11:46.247] [DEBUG] default - https://www.digicamdb.com : does not use flex layout
+[2024-05-14T16:11:51.825] [DEBUG] default - https://www.usacarsrental.com : does not use flex layout
+[2024-05-14T16:12:00.423] [DEBUG] default - https://www.hamiltontn.gov : does not use flex layout
+[2024-05-14T16:12:01.826] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_CERT_COMMON_NAME_INVALID at https://www.kittyworks.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:12:01.827] [DEBUG] default - https://www.kittyworks.com : does not use flex layout
+[2024-05-14T16:12:02.191] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.dolet.websurprisemail.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:12:02.192] [DEBUG] default - http://www.dolet.websurprisemail.com : does not use flex layout
+[2024-05-14T16:12:05.354] [DEBUG] default - https://www.zchain.co.jp : does not use flex layout
+[2024-05-14T16:12:10.461] [DEBUG] default - https://www.royalfurniture.com :  use flex layout
+[2024-05-14T16:12:13.711] [DEBUG] default - https://www.jsbi.org : does not use flex layout
+[2024-05-14T16:12:19.177] [DEBUG] default - https://www.inverarayjail.co.uk : does not use flex layout
+[2024-05-14T16:12:25.151] [DEBUG] default - https://www.encyclo.nl : does not use flex layout
+[2024-05-14T16:12:28.797] [DEBUG] default - https://www.carinavardie.com : does not use flex layout
+[2024-05-14T16:12:30.238] [DEBUG] default - https://www.casio.co.jp : does not use flex layout
+[2024-05-14T16:12:32.107] [DEBUG] default - https://www.tofler.in : does not use flex layout
+[2024-05-14T16:12:32.570] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://down.shopeevip13.com/
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:12:32.571] [DEBUG] default - http://down.shopeevip13.com/ : does not use flex layout
+[2024-05-14T16:12:41.019] [DEBUG] default - https://www.huntingact.org :  use flex layout
+[2024-05-14T16:12:47.342] [DEBUG] default - https://www.sron.nl :  use flex layout
+[2024-05-14T16:12:47.720] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.kanallipim.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:12:47.720] [DEBUG] default - http://www.kanallipim.com : does not use flex layout
+[2024-05-14T16:13:11.768] [DEBUG] default - https://www.floridashistoriccoast.com :  use flex layout
+[2024-05-14T16:13:14.558] [DEBUG] default - https://www.fotowiesel.de : does not use flex layout
+[2024-05-14T16:13:17.641] [DEBUG] default - https://www.diyaudioandvideo.com : does not use flex layout
+[2024-05-14T16:13:23.667] [DEBUG] default - https://www.typeoff.de : does not use flex layout
+[2024-05-14T16:13:28.948] [DEBUG] default - https://www.shagcarpetprops.com :  use flex layout
+[2024-05-14T16:13:37.277] [DEBUG] default - https://www.southwesternrailway.com : does not use flex layout
+[2024-05-14T16:13:44.827] [DEBUG] default - https://www.jalousie-welt.de :  use flex layout
+[2024-05-14T16:13:48.781] [DEBUG] default - https://www.xcore.com : does not use flex layout
+[2024-05-14T16:13:50.060] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_CERT_AUTHORITY_INVALID at https://www.mexican-folk-art-guide.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:13:50.061] [DEBUG] default - https://www.mexican-folk-art-guide.com : does not use flex layout
+[2024-05-14T16:13:50.587] [DEBUG] default - https://m-poste5.firebaseapp.com/ : does not use flex layout
+[2024-05-14T16:13:54.118] [DEBUG] default - https://www.ilovechile.cl : does not use flex layout
+[2024-05-14T16:14:01.178] [DEBUG] default - https://www.parketzorg.nl : does not use flex layout
+[2024-05-14T16:14:09.423] [DEBUG] default - http://www.space-to-rent.com : does not use flex layout
+[2024-05-14T16:14:18.210] [DEBUG] default - https://www.ubiquitypress.com : does not use flex layout
+[2024-05-14T16:14:25.912] [DEBUG] default - https://www.garaget.org : does not use flex layout
+[2024-05-14T16:14:28.808] [DEBUG] default - https://www.shopivyandash.com : does not use flex layout
+[2024-05-14T16:14:32.005] [DEBUG] default - http://www.alter.drivethrough.top : does not use flex layout
+[2024-05-14T16:14:50.876] [DEBUG] default - https://www.bsip.res.in : does not use flex layout
+[2024-05-14T16:14:51.230] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.feticost.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:14:51.231] [DEBUG] default - http://www.feticost.com : does not use flex layout
+[2024-05-14T16:14:54.537] [DEBUG] default - https://www.sportbikechic.com :  use flex layout
+[2024-05-14T16:15:01.761] [DEBUG] default - https://www.sikkens.nl :  use flex layout
+[2024-05-14T16:15:12.514] [DEBUG] default - https://www.arcturos.gr : does not use flex layout
+[2024-05-14T16:15:13.832] [ERROR] default - Error extracting HTML and CSS: Error: Execution context was destroyed, most likely because of a navigation.
+    at rewriteError (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:281:15)
+    at async #evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:220:60)
+    at async ExecutionContext.evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:117:16)
+    at async IsolatedWorld.evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\IsolatedWorld.js:124:16)
+    at async CdpFrame.evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:342:20)
+    at async CdpFrame.content (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:510:20)
+    at async CdpPage.content (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:519:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:19:22)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:15:13.832] [DEBUG] default - http://www.prevenirelcoronavirus-co.com : does not use flex layout
+[2024-05-14T16:15:17.016] [DEBUG] default - https://bzj908.webwave.dev/ : does not use flex layout
+[2024-05-14T16:15:22.728] [DEBUG] default - https://www.eurekalook.com :  use flex layout
+[2024-05-14T16:15:24.764] [DEBUG] default - http://cek58793690694674609.rf.gd/ : does not use flex layout
+[2024-05-14T16:15:25.704] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_CONNECTION_CLOSED at https://bienvenidobancoomeva.55web.repl.co/ib/
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:15:25.705] [DEBUG] default - https://bienvenidobancoomeva.55web.repl.co/ib/ : does not use flex layout
+[2024-05-14T16:15:29.446] [DEBUG] default - https://www.marlboroughairport.co.nz :  use flex layout
+[2024-05-14T16:15:29.831] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.images.webprogobest.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:15:29.832] [DEBUG] default - http://www.images.webprogobest.com : does not use flex layout
+[2024-05-14T16:15:31.771] [DEBUG] default - http://www.share.jobsadvanced.com :  use flex layout
+[2024-05-14T16:15:36.935] [DEBUG] default - https://www.renown.org :  use flex layout
+[2024-05-14T16:15:43.154] [DEBUG] default - https://www.myscandinavianhome.com : does not use flex layout
+[2024-05-14T16:15:51.137] [DEBUG] default - https://www.astfinancial.com : does not use flex layout
+[2024-05-14T16:15:51.500] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://axlujnflnjty.com/
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:15:51.501] [DEBUG] default - https://axlujnflnjty.com/ : does not use flex layout
+[2024-05-14T16:15:51.947] [DEBUG] default - https://storageapi.fleek.co/89b4fd59-0805-4755-bd6c-df6b6ef16d2f-bucket/ergf32r4refdwrgtfds.html : does not use flex layout
+[2024-05-14T16:15:55.983] [DEBUG] default - https://www.blackford.co.uk : does not use flex layout
+[2024-05-14T16:16:00.170] [DEBUG] default - https://www.easymanandvanremovals.co.uk : does not use flex layout
+[2024-05-14T16:16:03.126] [DEBUG] default - https://www.sita.aero :  use flex layout
+[2024-05-14T16:16:03.658] [DEBUG] default - https://www.haiming.co.jp : does not use flex layout
+[2024-05-14T16:16:11.950] [DEBUG] default - https://www.902.gr : does not use flex layout
+[2024-05-14T16:16:14.294] [DEBUG] default - https://www.leahphillipsinteriors.com : does not use flex layout
+[2024-05-14T16:16:18.685] [DEBUG] default - https://www.seodesignframework.com : does not use flex layout
+[2024-05-14T16:16:23.088] [DEBUG] default - https://www.edusoft.ro :  use flex layout
+[2024-05-14T16:16:40.798] [DEBUG] default - https://www.lyceemermozdakar.org : does not use flex layout
+[2024-05-14T16:16:45.462] [DEBUG] default - https://www.massarelli.com : does not use flex layout
+[2024-05-14T16:16:47.823] [DEBUG] default - https://www.chinesefortunecalendar.com :  use flex layout
+[2024-05-14T16:16:50.678] [DEBUG] default - https://www.godard-christian.org :  use flex layout
+[2024-05-14T16:16:50.937] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://meinedkb.me/
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:16:50.938] [DEBUG] default - https://meinedkb.me/ : does not use flex layout
+[2024-05-14T16:16:51.320] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.pmbfytlkm.ml
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:16:51.320] [DEBUG] default - http://www.pmbfytlkm.ml : does not use flex layout
+[2024-05-14T16:17:20.799] [DEBUG] default - https://www.purebreak.com : does not use flex layout
+[2024-05-14T16:17:51.169] [ERROR] default - Error extracting HTML and CSS: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new Deferred (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:59:34)
+    at Deferred.create (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:21:16)
+    at new LifecycleWatcher (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\LifecycleWatcher.js:65:60)
+    at CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:136:29)
+    at CdpFrame.<anonymous> (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\decorators.js:98:27)
+    at CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:43)
+    at extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:20)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:17:51.170] [DEBUG] default - https://www.ncmh.info : does not use flex layout
+[2024-05-14T16:18:04.531] [DEBUG] default - https://www.theindianpanorama.news :  use flex layout
+[2024-05-14T16:18:04.865] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.saiason-co-jp.acocese.onjoto.top/jp.php
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:18:04.865] [DEBUG] default - http://www.saiason-co-jp.acocese.onjoto.top/jp.php : does not use flex layout
+[2024-05-14T16:18:07.063] [DEBUG] default - https://www.pestcontrolplus.biz : does not use flex layout
+[2024-05-14T16:18:27.735] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_CONNECTION_RESET at http://portale-info-utente.199-192-29-15.cprapid.com/checkclient.php?&amp;sessionid=9d30164cdeb61a4caaff2d044a3fd599
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:18:27.736] [DEBUG] default - http://portale-info-utente.199-192-29-15.cprapid.com/checkclient.php?&amp;sessionid=9d30164cdeb61a4caaff2d044a3fd599 : does not use flex layout
+[2024-05-14T16:18:33.611] [DEBUG] default - http://www.farmersdaughterdelivery.com : does not use flex layout
+[2024-05-14T16:18:39.522] [DEBUG] default - https://www.technologyiowa.org : does not use flex layout
+[2024-05-14T16:18:40.221] [DEBUG] default - https://www.kearney.com : does not use flex layout
+[2024-05-14T16:18:42.269] [DEBUG] default - https://www.huseyinkan.com.tr : does not use flex layout
+[2024-05-14T16:18:44.815] [DEBUG] default - https://www.alelion.com : does not use flex layout
+[2024-05-14T16:18:51.899] [DEBUG] default - https://www.tonsberg.kommune.no :  use flex layout
+[2024-05-14T16:18:52.166] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.snn2.mhysl.org
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:18:52.167] [DEBUG] default - http://www.snn2.mhysl.org : does not use flex layout
+[2024-05-14T16:18:56.308] [DEBUG] default - https://www.fontzone.net : does not use flex layout
+[2024-05-14T16:18:59.762] [DEBUG] default - https://www.realestatebydesignteam.com :  use flex layout
+[2024-05-14T16:19:10.426] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_CONNECTION_CLOSED at https://www.finmin.nic.in
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:19:10.427] [DEBUG] default - https://www.finmin.nic.in : does not use flex layout
+[2024-05-14T16:19:13.747] [DEBUG] default - https://www.sciencefocus.com :  use flex layout
+[2024-05-14T16:19:15.014] [DEBUG] default - https://www.solutionfun.info : does not use flex layout
+[2024-05-14T16:19:27.663] [DEBUG] default - https://www.brollopstorget.se : does not use flex layout
+[2024-05-14T16:19:35.029] [DEBUG] default - https://www.carmagnets.com.au :  use flex layout
+[2024-05-14T16:19:43.762] [DEBUG] default - https://www.primepost.in :  use flex layout
+[2024-05-14T16:19:55.440] [DEBUG] default - https://www.icasees.org :  use flex layout
+[2024-05-14T16:20:01.669] [DEBUG] default - https://www.fourni.com : does not use flex layout
+[2024-05-14T16:20:19.119] [DEBUG] default - https://www.mcnabbraeside.com : does not use flex layout
+[2024-05-14T16:20:24.150] [DEBUG] default - https://www.painphysicianjournal.com : does not use flex layout
+[2024-05-14T16:20:33.717] [DEBUG] default - https://www.prospectshoppingcentre.co.uk :  use flex layout
+[2024-05-14T16:20:35.498] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_CERT_AUTHORITY_INVALID at https://www.welshicons.org.uk
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:20:35.499] [DEBUG] default - https://www.welshicons.org.uk : does not use flex layout
+[2024-05-14T16:20:36.246] [DEBUG] default - https://i-6otvybu4aq-rj.a.run.app/bb/?tr=23f1352766c94000af509bac14626a0f&amp;t1=bb : does not use flex layout
+[2024-05-14T16:20:44.154] [DEBUG] default - https://www.parttimemonkey.com :  use flex layout
+[2024-05-14T16:20:47.676] [DEBUG] default - https://www.myvapi.com : does not use flex layout
+[2024-05-14T16:20:51.389] [DEBUG] default - https://www.thepassportlifestyle.com : does not use flex layout
+[2024-05-14T16:21:21.396] [DEBUG] default - https://www.ifla.org : does not use flex layout
+[2024-05-14T16:21:30.661] [DEBUG] default - https://www.thomastonsavingsbank.com : does not use flex layout
+[2024-05-14T16:21:31.093] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://paypal-support.com.desenvolvedortheosbank.com.br/login.php?cmd=_account-details&amp;dispatch=41bcb6130b4379a4b0e6877236a0d761fc53dbf4&amp;session=65253d993b6830423b3ad2829e96ac33
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:21:31.093] [DEBUG] default - http://paypal-support.com.desenvolvedortheosbank.com.br/login.php?cmd=_account-details&amp;dispatch=41bcb6130b4379a4b0e6877236a0d761fc53dbf4&amp;session=65253d993b6830423b3ad2829e96ac33 : does not use flex layout
+[2024-05-14T16:21:35.340] [DEBUG] default - https://www.oekb.at : does not use flex layout
+[2024-05-14T16:21:38.464] [DEBUG] default - https://www.detroitmusicawards.net : does not use flex layout
+[2024-05-14T16:21:39.641] [DEBUG] default - https://www.j-lis.go.jp : does not use flex layout
+[2024-05-14T16:21:42.587] [DEBUG] default - https://www.scbs.org :  use flex layout
+[2024-05-14T16:21:48.678] [DEBUG] default - https://www.ingechristopher.com : does not use flex layout
+[2024-05-14T16:21:49.593] [DEBUG] default - https://www.valueinhealthjournal.com :  use flex layout
+[2024-05-14T16:21:54.715] [DEBUG] default - https://www.elvingerhoss.lu : does not use flex layout
+[2024-05-14T16:21:56.073] [DEBUG] default - https://www.kuc-arc-f.com : does not use flex layout
+[2024-05-14T16:22:01.184] [DEBUG] default - https://www.stephenmclaughlin.net : does not use flex layout
+[2024-05-14T16:22:09.761] [DEBUG] default - https://www.periodistasvascos.com : does not use flex layout
+[2024-05-14T16:22:12.380] [DEBUG] default - https://www.luluandbass.com :  use flex layout
+[2024-05-14T16:22:14.754] [DEBUG] default - https://www.mgmclaren.com :  use flex layout
+[2024-05-14T16:22:22.204] [DEBUG] default - https://www.payback.de :  use flex layout
+[2024-05-14T16:22:28.522] [DEBUG] default - https://www.esr.se : does not use flex layout
+[2024-05-14T16:22:32.308] [DEBUG] default - https://www.thecomeupshow.com : does not use flex layout
+[2024-05-14T16:22:43.048] [DEBUG] default - https://www.mypaga.com : does not use flex layout
+[2024-05-14T16:22:49.914] [DEBUG] default - https://www.ratemyfishtank.com : does not use flex layout
+[2024-05-14T16:22:50.185] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://www.support-lcioud-maps.info
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:22:50.186] [DEBUG] default - https://www.support-lcioud-maps.info : does not use flex layout
+[2024-05-14T16:23:02.968] [DEBUG] default - https://www.aucegypt.edu : does not use flex layout
+[2024-05-14T16:23:12.980] [DEBUG] default - https://www.gaijindistribution.com :  use flex layout
+[2024-05-14T16:23:29.369] [DEBUG] default - https://www.okulcep.com : does not use flex layout
+[2024-05-14T16:23:36.663] [DEBUG] default - https://www.ccanactionfund.org :  use flex layout
+[2024-05-14T16:24:06.931] [ERROR] default - Error extracting HTML and CSS: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new Deferred (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:59:34)
+    at Deferred.create (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:21:16)
+    at new LifecycleWatcher (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\LifecycleWatcher.js:65:60)
+    at CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:136:29)
+    at CdpFrame.<anonymous> (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\decorators.js:98:27)
+    at CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:43)
+    at extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:20)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:24:06.932] [DEBUG] default - https://www.hollywoodkart.it : does not use flex layout
+[2024-05-14T16:24:09.805] [DEBUG] default - https://www.svetplus.com : does not use flex layout
+[2024-05-14T16:24:16.348] [DEBUG] default - https://www.glow-internet.com : does not use flex layout
+[2024-05-14T16:24:17.486] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_CERT_AUTHORITY_INVALID at https://rebeccasokol.com/vystarcudisputetransfernow/
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:24:17.487] [DEBUG] default - https://rebeccasokol.com/vystarcudisputetransfernow/ : does not use flex layout
+[2024-05-14T16:24:22.801] [DEBUG] default - https://www.jorritdijkstra.com : does not use flex layout
+[2024-05-14T16:24:31.124] [DEBUG] default - https://www.nedsti.is : does not use flex layout
+[2024-05-14T16:24:36.044] [DEBUG] default - https://www.coolyrockson.com : does not use flex layout
+[2024-05-14T16:24:39.291] [DEBUG] default - https://www.lch.com :  use flex layout
+[2024-05-14T16:24:39.809] [DEBUG] default - https://kdjf32-yer334.web.app/ : does not use flex layout
+[2024-05-14T16:24:45.565] [DEBUG] default - https://www.monopoly-poker.com :  use flex layout
+[2024-05-14T16:24:53.993] [DEBUG] default - https://www.puptection.com : does not use flex layout
+[2024-05-14T16:24:56.607] [DEBUG] default - https://www.emilymaletz.com : does not use flex layout
+[2024-05-14T16:25:01.193] [DEBUG] default - https://www.franksworld.com :  use flex layout
+[2024-05-14T16:25:06.017] [DEBUG] default - https://www.sae.org :  use flex layout
+[2024-05-14T16:25:06.609] [DEBUG] default - https://ipfs.io/ipfs/qmdpvrrdy3vngkuvvkg6guv4okfuxzxgya3cn9wamzkdu7/inndex.html : does not use flex layout
+[2024-05-14T16:25:12.001] [DEBUG] default - https://www.trash.net : does not use flex layout
+[2024-05-14T16:25:37.890] [DEBUG] default - https://www.bessmccrary.com : does not use flex layout
+[2024-05-14T16:25:38.248] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://acessodasuafaturaluiza.com/?gclid=eaiaiqobchmio6sy5r3a_qivtobcch06zadreaayasaaegigvfd_bwe
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:25:38.249] [DEBUG] default - https://acessodasuafaturaluiza.com/?gclid=eaiaiqobchmio6sy5r3a_qivtobcch06zadreaayasaaegigvfd_bwe : does not use flex layout
+[2024-05-14T16:25:39.548] [DEBUG] default - https://www.diariodocentrodomundo.com.br :  use flex layout
+[2024-05-14T16:25:45.721] [DEBUG] default - https://www.dccreditunion.coop : does not use flex layout
+[2024-05-14T16:25:52.420] [DEBUG] default - https://www.fayettetribune.com :  use flex layout
+[2024-05-14T16:25:55.129] [DEBUG] default - https://www.macraesbluebook.com : does not use flex layout
+[2024-05-14T16:25:57.749] [DEBUG] default - https://www.fosslinux.com :  use flex layout
+[2024-05-14T16:25:59.671] [DEBUG] default - http://shorturl.at/hehjn : does not use flex layout
+[2024-05-14T16:26:08.341] [DEBUG] default - https://www.diariodepernambuco.com.br :  use flex layout
+[2024-05-14T16:26:10.338] [DEBUG] default - https://moored-legendary-scorpio.glitch.me/rogk.htm : does not use flex layout
+[2024-05-14T16:26:17.443] [DEBUG] default - https://www.chase.worcs.sch.uk :  use flex layout
+[2024-05-14T16:26:18.935] [DEBUG] default - https://www.kionix.com : does not use flex layout
+[2024-05-14T16:26:19.303] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://www.infocusnews.net
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:26:19.304] [DEBUG] default - https://www.infocusnews.net : does not use flex layout
+[2024-05-14T16:26:25.869] [DEBUG] default - http://www.from-ia.com : does not use flex layout
+[2024-05-14T16:26:28.282] [DEBUG] default - https://www.pioneershospital.org : does not use flex layout
+[2024-05-14T16:26:32.800] [DEBUG] default - https://www.coloradoindependent.com :  use flex layout
+[2024-05-14T16:26:41.005] [DEBUG] default - https://www.talleyupp.com :  use flex layout
+[2024-05-14T16:26:42.696] [DEBUG] default - http://www.applemusic.itemdb.com : does not use flex layout
+[2024-05-14T16:26:45.927] [DEBUG] default - https://fladestateins.com/4ecc9875-1bec-4eb4-b4b8-859e345aa26a : does not use flex layout
+[2024-05-14T16:26:46.943] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.oeticket.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:26:46.943] [DEBUG] default - https://www.oeticket.com : does not use flex layout
+[2024-05-14T16:26:47.651] [DEBUG] default - https://fb-business-appeal-4d401.firebaseapp.com/ : does not use flex layout
+[2024-05-14T16:26:47.934] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://ltauappkcx015.z16.web.core.windows.net/
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:26:47.935] [DEBUG] default - https://ltauappkcx015.z16.web.core.windows.net/ : does not use flex layout
+[2024-05-14T16:26:48.680] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_CONNECTION_RESET at https://www.belgian-beatles-society.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:26:48.681] [DEBUG] default - https://www.belgian-beatles-society.com : does not use flex layout
+[2024-05-14T16:27:14.430] [DEBUG] default - https://www.cartamz.com : does not use flex layout
+[2024-05-14T16:27:17.683] [DEBUG] default - https://www.writegirl.org : does not use flex layout
+[2024-05-14T16:27:21.883] [DEBUG] default - https://www.parkdeanresorts.co.uk : does not use flex layout
+[2024-05-14T16:27:26.498] [DEBUG] default - https://www.borealisstringquartet.com : does not use flex layout
+[2024-05-14T16:27:30.492] [DEBUG] default - https://www.wipro.com :  use flex layout
+[2024-05-14T16:27:33.237] [DEBUG] default - https://www.bandungheritage.org : does not use flex layout
+[2024-05-14T16:27:38.347] [DEBUG] default - https://www.transfergo.com :  use flex layout
+[2024-05-14T16:27:45.638] [DEBUG] default - https://www.iclr.co.uk : does not use flex layout
+[2024-05-14T16:27:48.296] [DEBUG] default - https://www.linjeflyg.info : does not use flex layout
+[2024-05-14T16:27:55.615] [DEBUG] default - https://www.gambolthemes.net/wp-admin/mi/ :  use flex layout
+[2024-05-14T16:27:56.011] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://sculptedapeyachtclub.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:27:56.011] [DEBUG] default - http://sculptedapeyachtclub.com : does not use flex layout
+[2024-05-14T16:27:57.692] [DEBUG] default - https://www.jimmycarterlibrary.org : does not use flex layout
+[2024-05-14T16:27:59.100] [DEBUG] default - http://btweebley.weebly.com/ :  use flex layout
+[2024-05-14T16:28:02.567] [DEBUG] default - https://www.haasjr.org :  use flex layout
+[2024-05-14T16:28:05.259] [DEBUG] default - https://www.minipiginfo.com :  use flex layout
+[2024-05-14T16:28:10.303] [DEBUG] default - https://www.visa-algerie.com : does not use flex layout
+[2024-05-14T16:28:14.668] [DEBUG] default - https://www.access-cu.com : does not use flex layout
+[2024-05-14T16:28:19.684] [DEBUG] default - https://www.animalclinic.cz : does not use flex layout
+[2024-05-14T16:28:23.344] [DEBUG] default - https://www.tysontalk.com : does not use flex layout
+[2024-05-14T16:28:26.716] [DEBUG] default - https://www.gw.govt.nz : does not use flex layout
+[2024-05-14T16:28:28.536] [ERROR] default - Error extracting HTML and CSS: Error: Execution context was destroyed, most likely because of a navigation.
+    at rewriteError (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:281:15)
+    at async #evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:220:60)
+    at async ExecutionContext.evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:117:16)
+    at async IsolatedWorld.evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\IsolatedWorld.js:124:16)
+    at async CdpFrame.evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:342:20)
+    at async CdpFrame.content (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:510:20)
+    at async CdpPage.content (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:519:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:19:22)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:28:28.536] [DEBUG] default - https://www.coffeevalve.com : does not use flex layout
+[2024-05-14T16:28:34.374] [DEBUG] default - https://www.smifs.com : does not use flex layout
+[2024-05-14T16:28:38.123] [DEBUG] default - https://www.sciencenorth.ca : does not use flex layout
+[2024-05-14T16:28:47.867] [DEBUG] default - https://www.happyfrog2011.com : does not use flex layout
+[2024-05-14T16:28:48.271] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://www.ioginunlcovlabcp.com/
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:28:48.272] [DEBUG] default - https://www.ioginunlcovlabcp.com/ : does not use flex layout
+[2024-05-14T16:28:48.693] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://icsauth-app04.com/plsiodcc/2c347a8
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:28:48.693] [DEBUG] default - https://icsauth-app04.com/plsiodcc/2c347a8 : does not use flex layout
+[2024-05-14T16:28:51.604] [DEBUG] default - https://www.opensource-socialnetwork.org : does not use flex layout
+[2024-05-14T16:28:56.840] [DEBUG] default - https://www.wearesas.com : does not use flex layout
+[2024-05-14T16:28:59.169] [DEBUG] default - https://www.mccain-inc.com : does not use flex layout
+[2024-05-14T16:29:15.830] [DEBUG] default - https://www.iksv.org :  use flex layout
+[2024-05-14T16:29:20.765] [DEBUG] default - https://www.gonzaga.edu : does not use flex layout
+[2024-05-14T16:29:21.157] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://shachihata.xyz/mtb/
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:29:21.158] [DEBUG] default - https://shachihata.xyz/mtb/ : does not use flex layout
+[2024-05-14T16:29:29.606] [DEBUG] default - https://www.ica.art : does not use flex layout
+[2024-05-14T16:29:32.100] [DEBUG] default - https://www.adamspiers.org : does not use flex layout
+[2024-05-14T16:29:36.997] [DEBUG] default - https://www.bensing-thomasfuneralhome.com : does not use flex layout
+[2024-05-14T16:29:37.364] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://opmklw.com/
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:29:37.365] [DEBUG] default - https://opmklw.com/ : does not use flex layout
+[2024-05-14T16:29:43.231] [DEBUG] default - https://www.missy-elliott.com :  use flex layout
+[2024-05-14T16:29:46.495] [DEBUG] default - https://www.huntleyequestrian.com : does not use flex layout
+[2024-05-14T16:29:47.409] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://www.idunloor.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:29:47.409] [DEBUG] default - https://www.idunloor.com : does not use flex layout
+[2024-05-14T16:29:51.601] [DEBUG] default - https://www.khronos.org : does not use flex layout
+[2024-05-14T16:29:53.664] [DEBUG] default - https://www.allmath.com : does not use flex layout
+[2024-05-14T16:29:57.193] [DEBUG] default - https://www.thegfactoraccessories.com : does not use flex layout
+[2024-05-14T16:30:02.998] [DEBUG] default - https://www.callscotland.org.uk : does not use flex layout
+[2024-05-14T16:30:33.272] [ERROR] default - Error extracting HTML and CSS: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new Deferred (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:59:34)
+    at Deferred.create (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:21:16)
+    at new LifecycleWatcher (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\LifecycleWatcher.js:65:60)
+    at CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:136:29)
+    at CdpFrame.<anonymous> (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\decorators.js:98:27)
+    at CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:43)
+    at extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:20)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:30:33.273] [DEBUG] default - https://www.bowerpowerblog.com : does not use flex layout
+[2024-05-14T16:30:33.968] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.eventim.com.br
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:30:33.968] [DEBUG] default - https://www.eventim.com.br : does not use flex layout
+[2024-05-14T16:30:49.268] [DEBUG] default - https://www.ladarbia.com :  use flex layout
+[2024-05-14T16:30:52.508] [DEBUG] default - https://www.pak101.com : does not use flex layout
+[2024-05-14T16:30:59.124] [DEBUG] default - https://www.teradici.com :  use flex layout
+[2024-05-14T16:30:59.591] [DEBUG] default - http://www.stand-by-97c5c.appspot.com : does not use flex layout
+[2024-05-14T16:30:59.953] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://syneoshealth-iso9001.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:30:59.954] [DEBUG] default - http://syneoshealth-iso9001.com : does not use flex layout
+[2024-05-14T16:31:30.239] [DEBUG] default - https://www.portacurtas.org.br :  use flex layout
+[2024-05-14T16:31:31.220] [DEBUG] default - https://bafybeihbem6hsfignhjjqfec7ge26ag3mgigcdlxpawezygh7fuud7imwa.ipfs.w3s.link/continue.html : does not use flex layout
+[2024-05-14T16:31:36.019] [DEBUG] default - https://www.aimtti.com : does not use flex layout
+[2024-05-14T16:31:38.771] [DEBUG] default - https://www.quins.us :  use flex layout
+[2024-05-14T16:31:39.145] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://pyyplapp.com/
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:31:39.145] [DEBUG] default - https://pyyplapp.com/ : does not use flex layout
+[2024-05-14T16:31:43.431] [DEBUG] default - https://www.thehumanleague.co.uk : does not use flex layout
+[2024-05-14T16:31:45.826] [DEBUG] default - https://www.americanwest.cc : does not use flex layout
+[2024-05-14T16:31:47.535] [DEBUG] default - https://www.seiburailway.jp : does not use flex layout
+[2024-05-14T16:31:50.705] [DEBUG] default - https://www.lindasongs.com : does not use flex layout
+[2024-05-14T16:31:54.831] [DEBUG] default - https://www.quettavoice.com : does not use flex layout
+[2024-05-14T16:32:00.192] [DEBUG] default - https://www.harringtondiscovery.org : does not use flex layout
+[2024-05-14T16:32:01.879] [DEBUG] default - https://snapdragon-magic-flag.glitch.me/navyfederal.org.html : does not use flex layout
+[2024-05-14T16:32:06.019] [DEBUG] default - https://www.callumlaing.com :  use flex layout
+[2024-05-14T16:32:12.856] [DEBUG] default - https://www.canberratracks.act.gov.au : does not use flex layout
+[2024-05-14T16:32:13.310] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.waerdxoeuc.cf
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:32:13.310] [DEBUG] default - http://www.waerdxoeuc.cf : does not use flex layout
+[2024-05-14T16:32:15.488] [DEBUG] default - https://www.hcahpsonline.org : does not use flex layout
+[2024-05-14T16:32:18.333] [DEBUG] default - https://www.masglo.com : does not use flex layout
+[2024-05-14T16:32:19.237] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://www.mediapass.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:32:19.238] [DEBUG] default - https://www.mediapass.com : does not use flex layout
+[2024-05-14T16:32:20.435] [ERROR] default - Error extracting HTML and CSS: Error: Execution context was destroyed, most likely because of a navigation.
+    at rewriteError (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:281:15)
+    at async #evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:220:60)
+    at async ExecutionContext.evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:117:16)
+    at async IsolatedWorld.evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\IsolatedWorld.js:124:16)
+    at async CdpFrame.evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:342:20)
+    at async CdpFrame.content (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:510:20)
+    at async CdpPage.content (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:519:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:19:22)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:32:20.436] [DEBUG] default - http://www.shopcurbsideanddelivery.com : does not use flex layout
+[2024-05-14T16:32:23.340] [DEBUG] default - https://www.kanazawa21.jp : does not use flex layout
+[2024-05-14T16:32:30.575] [DEBUG] default - https://www.abc.ca.gov : does not use flex layout
+[2024-05-14T16:32:32.982] [DEBUG] default - https://www.jphs.org : does not use flex layout
+[2024-05-14T16:32:38.165] [DEBUG] default - https://www.tourstoriesapp.com :  use flex layout
+[2024-05-14T16:32:39.900] [ERROR] default - Error extracting HTML and CSS: Error: Execution context was destroyed, most likely because of a navigation.
+    at rewriteError (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:281:15)
+    at async #evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:220:60)
+    at async ExecutionContext.evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:117:16)
+    at async IsolatedWorld.evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\IsolatedWorld.js:124:16)
+    at async CdpFrame.evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:342:20)
+    at async CdpFrame.content (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:510:20)
+    at async CdpPage.content (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:519:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:19:22)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:32:39.901] [DEBUG] default - http://www.aphistoryonline.com : does not use flex layout
+[2024-05-14T16:32:43.829] [DEBUG] default - https://www.stagecenta.com : does not use flex layout
+[2024-05-14T16:32:45.372] [DEBUG] default - http://www.fontsm.welco.live : does not use flex layout
+[2024-05-14T16:32:47.870] [DEBUG] default - http://www.myfreeserver.download : does not use flex layout
+[2024-05-14T16:32:48.415] [DEBUG] default - https://sxl-nf7i-l.web.app/ : does not use flex layout
+[2024-05-14T16:32:53.205] [DEBUG] default - https://www.inspectorgorgeous.com :  use flex layout
+[2024-05-14T16:32:54.452] [DEBUG] default - https://yahoo-att106332.weeblysite.com/ : does not use flex layout
+[2024-05-14T16:32:58.874] [DEBUG] default - https://www.znu-standard.com :  use flex layout
+[2024-05-14T16:33:01.228] [DEBUG] default - https://www.dotandarmy.com : does not use flex layout
+[2024-05-14T16:33:07.741] [DEBUG] default - http://www.ovz1.j19544519.pr46m.vps.myjino.ru :  use flex layout
+[2024-05-14T16:33:20.171] [DEBUG] default - https://www.hampshireairfields.co.uk : does not use flex layout
+[2024-05-14T16:33:26.778] [DEBUG] default - https://www.scuc.txed.net : does not use flex layout
+[2024-05-14T16:33:32.709] [DEBUG] default - https://www.toutdonner.com : does not use flex layout
+[2024-05-14T16:33:37.754] [DEBUG] default - https://www.yitgroup.com :  use flex layout
+[2024-05-14T16:33:40.813] [DEBUG] default - http://www.raveston.com :  use flex layout
+[2024-05-14T16:33:45.127] [DEBUG] default - https://www.fedfarm.org.nz : does not use flex layout
+[2024-05-14T16:33:57.065] [DEBUG] default - https://www.trl.co.uk : does not use flex layout
+[2024-05-14T16:34:03.217] [DEBUG] default - https://www.echosens.com :  use flex layout
+[2024-05-14T16:34:06.303] [DEBUG] default - https://www.lifesoleil.com : does not use flex layout
+[2024-05-14T16:34:16.658] [DEBUG] default - https://www.fa.uni-lj.si :  use flex layout
+[2024-05-14T16:34:26.900] [DEBUG] default - https://www.newsdirect.com :  use flex layout
+[2024-05-14T16:34:30.786] [DEBUG] default - https://www.tarzan.com : does not use flex layout
+[2024-05-14T16:34:31.194] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://hkmulane.cn/bnl51
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:34:31.195] [DEBUG] default - http://hkmulane.cn/bnl51 : does not use flex layout
+[2024-05-14T16:34:31.575] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.winconnectors.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:34:31.576] [DEBUG] default - http://www.winconnectors.com : does not use flex layout
+[2024-05-14T16:34:38.052] [DEBUG] default - https://www.congresscentre.co.uk : does not use flex layout
+[2024-05-14T16:34:44.875] [DEBUG] default - https://www.ots.treas.gov : does not use flex layout
+[2024-05-14T16:34:46.903] [DEBUG] default - http://www.ftp.innocent-isayev.sexidude.com : does not use flex layout
+[2024-05-14T16:34:53.905] [DEBUG] default - https://www.sethkaller.com : does not use flex layout
+[2024-05-14T16:35:02.758] [DEBUG] default - https://www.unrc.edu.ar : does not use flex layout
+[2024-05-14T16:35:06.189] [DEBUG] default - https://www.horicon.lib.wi.us : does not use flex layout
+[2024-05-14T16:35:10.194] [DEBUG] default - https://www.cosmopolitan.co.id :  use flex layout
+[2024-05-14T16:35:27.918] [DEBUG] default - https://www.errico.com : does not use flex layout
+[2024-05-14T16:35:58.199] [ERROR] default - Error extracting HTML and CSS: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new Deferred (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:59:34)
+    at Deferred.create (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:21:16)
+    at new LifecycleWatcher (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\LifecycleWatcher.js:65:60)
+    at CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:136:29)
+    at CdpFrame.<anonymous> (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\decorators.js:98:27)
+    at CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:43)
+    at extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:20)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:35:58.200] [DEBUG] default - https://www.radio-potsdam.de : does not use flex layout
+[2024-05-14T16:36:06.591] [DEBUG] default - https://www.koyfin.com :  use flex layout
+[2024-05-14T16:36:08.894] [DEBUG] default - https://www.qgallery.net : does not use flex layout
+[2024-05-14T16:36:09.267] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.http.jmrmfitym.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:36:09.268] [DEBUG] default - http://www.http.jmrmfitym.com : does not use flex layout
+[2024-05-14T16:36:18.673] [DEBUG] default - http://www.hairandhairs.com :  use flex layout
+[2024-05-14T16:36:39.318] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_CONNECTION_RESET at https://www.sandrakyle.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:36:39.318] [DEBUG] default - https://www.sandrakyle.com : does not use flex layout
+[2024-05-14T16:36:40.894] [DEBUG] default - http://www.m2.videos.vidto.me : does not use flex layout
+[2024-05-14T16:36:44.862] [DEBUG] default - https://www.humanedecisions.com :  use flex layout
+[2024-05-14T16:36:51.363] [DEBUG] default - https://www.lovingit.pl : does not use flex layout
+[2024-05-14T16:36:59.020] [DEBUG] default - https://www.islandheritagetrust.org : does not use flex layout
+[2024-05-14T16:37:00.187] [ERROR] default - Error extracting HTML and CSS: Error: Execution context was destroyed, most likely because of a navigation.
+    at rewriteError (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:281:15)
+    at async #evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:220:60)
+    at async ExecutionContext.evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:117:16)
+    at async IsolatedWorld.evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\IsolatedWorld.js:124:16)
+    at async CdpFrame.evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:342:20)
+    at async CdpFrame.content (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:510:20)
+    at async CdpPage.content (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:519:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:19:22)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:37:00.188] [DEBUG] default - http://www.fairpayva.com : does not use flex layout
+[2024-05-14T16:37:11.737] [DEBUG] default - https://www.livingwelllaughoften.com : does not use flex layout
+[2024-05-14T16:37:24.341] [DEBUG] default - https://www.sifa.sg : does not use flex layout
+[2024-05-14T16:37:29.182] [DEBUG] default - https://www.rugby365.fr : does not use flex layout
+[2024-05-14T16:37:33.130] [DEBUG] default - https://www.dfg.de : does not use flex layout
+[2024-05-14T16:37:38.248] [DEBUG] default - https://www.town.medfield.net : does not use flex layout
+[2024-05-14T16:37:39.909] [DEBUG] default - https://www.cybavo.com : does not use flex layout
+[2024-05-14T16:37:40.248] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://www.morningstar.co.jp
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:37:40.248] [DEBUG] default - https://www.morningstar.co.jp : does not use flex layout
+[2024-05-14T16:38:00.917] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_CONNECTION_RESET at http://www.mob.netau.net
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:38:00.917] [DEBUG] default - http://www.mob.netau.net : does not use flex layout
+[2024-05-14T16:38:01.541] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://ab-tdod5.ml/communityamerica/
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:38:01.541] [DEBUG] default - http://ab-tdod5.ml/communityamerica/ : does not use flex layout
+[2024-05-14T16:38:08.283] [DEBUG] default - https://www.vtwonen.nl :  use flex layout
+[2024-05-14T16:38:14.678] [DEBUG] default - https://www.emubands.com :  use flex layout
+[2024-05-14T16:38:18.063] [DEBUG] default - https://www.quinapalus.com : does not use flex layout
+[2024-05-14T16:38:23.562] [DEBUG] default - https://www.wwf.nl :  use flex layout
+[2024-05-14T16:38:28.890] [DEBUG] default - https://www.chakanaskyalpacas.com : does not use flex layout
+[2024-05-14T16:38:31.769] [DEBUG] default - https://www.directory.gov.hk : does not use flex layout
+[2024-05-14T16:38:36.606] [DEBUG] default - https://www.idcpc.org.cn : does not use flex layout
+[2024-05-14T16:38:39.890] [DEBUG] default - https://www.artm.pref.hyogo.jp :  use flex layout
+[2024-05-14T16:38:40.941] [DEBUG] default - https://www.obstetanesthesia.com :  use flex layout
+[2024-05-14T16:38:42.451] [DEBUG] default - https://linkpop.com/consullimasilvas : does not use flex layout
+[2024-05-14T16:38:43.022] [DEBUG] default - https://hbcd-f016c.firebaseapp.com/ : does not use flex layout
+[2024-05-14T16:38:45.635] [DEBUG] default - https://www.autopartscanadaonline.ca : does not use flex layout
+[2024-05-14T16:38:46.164] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://securespks-erv-webservice1193.de/auth/branch
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:38:46.164] [DEBUG] default - https://securespks-erv-webservice1193.de/auth/branch : does not use flex layout
+[2024-05-14T16:38:48.889] [DEBUG] default - https://www.twistr.com : does not use flex layout
+[2024-05-14T16:38:49.448] [DEBUG] default - https://caseid618241009528736.firebaseapp.com/ : does not use flex layout
+[2024-05-14T16:38:54.098] [DEBUG] default - https://www.aarome.org : does not use flex layout
+[2024-05-14T16:38:56.243] [DEBUG] default - http://www.wikaba.com : does not use flex layout
+[2024-05-14T16:38:59.638] [DEBUG] default - http://www.gw.blocktrail.com : does not use flex layout
+[2024-05-14T16:39:03.225] [DEBUG] default - http://www.f0592127.xsph.ru : does not use flex layout
+[2024-05-14T16:39:08.443] [DEBUG] default - https://www.templechurch.com : does not use flex layout
+[2024-05-14T16:39:15.484] [DEBUG] default - http://yzxlsc.com/wordpress/wp-includes/fonts/aupost/track/index2.php : does not use flex layout
+[2024-05-14T16:39:25.500] [DEBUG] default - https://www.watchyour.tv : does not use flex layout
+[2024-05-14T16:39:30.141] [DEBUG] default - https://www.linfograf.com : does not use flex layout
+[2024-05-14T16:39:30.446] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.shbc.pplink.club
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:39:30.447] [DEBUG] default - http://www.shbc.pplink.club : does not use flex layout
+[2024-05-14T16:39:33.334] [DEBUG] default - https://www.narrabri.atnf.csiro.au : does not use flex layout
+[2024-05-14T16:39:36.454] [DEBUG] default - https://cloud.mymailwall.com/n/url?l=okcgntugaaaaaa&amp;u=http://nexvir.com/api/img/index.html : does not use flex layout
+[2024-05-14T16:39:39.152] [DEBUG] default - https://www.chloramine.org : does not use flex layout
+[2024-05-14T16:39:44.893] [DEBUG] default - https://www.wwf.se :  use flex layout
+[2024-05-14T16:39:45.463] [DEBUG] default - https://bakq-6ee12.web.app/ : does not use flex layout
+[2024-05-14T16:39:49.503] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_CERT_COMMON_NAME_INVALID at https://www.sproutmentor.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:39:49.503] [DEBUG] default - https://www.sproutmentor.com : does not use flex layout
+[2024-05-14T16:39:50.379] [DEBUG] default - https://dev-64vnfff.pantheonsite.io/ : does not use flex layout
+[2024-05-14T16:39:51.436] [DEBUG] default - https://aol-103150.weeblysite.com/ : does not use flex layout
+[2024-05-14T16:39:56.023] [DEBUG] default - http://www.towncenterhotel.com : does not use flex layout
+[2024-05-14T16:39:58.766] [DEBUG] default - https://www.us.jll.com :  use flex layout
+[2024-05-14T16:40:00.374] [DEBUG] default - https://update20.godaddysites.com/ : does not use flex layout
+[2024-05-14T16:40:05.015] [DEBUG] default - https://www.snapper.co.nz : does not use flex layout
+[2024-05-14T16:40:10.496] [DEBUG] default - https://www.leacock.ca : does not use flex layout
+[2024-05-14T16:40:16.209] [DEBUG] default - https://www.ecolevol.de : does not use flex layout
+[2024-05-14T16:40:19.257] [DEBUG] default - https://www.americanavalancheassociation.org : does not use flex layout
+[2024-05-14T16:40:29.429] [DEBUG] default - https://www.electrooptics.com :  use flex layout
+[2024-05-14T16:40:42.741] [DEBUG] default - https://www.webnoise.co.il : does not use flex layout
+[2024-05-14T16:40:44.078] [DEBUG] default - http://dev-verificacion-itauweb-24-horas.pantheonsite.io/ : does not use flex layout
+[2024-05-14T16:40:49.920] [DEBUG] default - https://www.newsbizarre.com : does not use flex layout
+[2024-05-14T16:40:53.543] [DEBUG] default - https://www.futilitycloset.com :  use flex layout
+[2024-05-14T16:40:53.944] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.piratashost.top
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:40:53.944] [DEBUG] default - http://www.piratashost.top : does not use flex layout
+[2024-05-14T16:40:54.403] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.mail-nepalarmymil-np.gq
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:40:54.404] [DEBUG] default - http://www.mail-nepalarmymil-np.gq : does not use flex layout
+[2024-05-14T16:41:19.430] [DEBUG] default - https://www.kirchenzeitung.de : does not use flex layout
+[2024-05-14T16:41:21.288] [DEBUG] default - http://www.s.id/applicazionebnl : does not use flex layout
+[2024-05-14T16:41:23.088] [DEBUG] default - http://www.ppxxmr.com : does not use flex layout
+[2024-05-14T16:41:23.458] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://tbwcshop.com/centor-idimoas-unh-400x39.htm
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:41:23.458] [DEBUG] default - https://tbwcshop.com/centor-idimoas-unh-400x39.htm : does not use flex layout
+[2024-05-14T16:41:27.670] [DEBUG] default - https://www.kinetica.com : does not use flex layout
+[2024-05-14T16:41:32.708] [DEBUG] default - https://www.paulettegreene.com : does not use flex layout
+[2024-05-14T16:41:33.488] [DEBUG] default - http://debasishvictor192.github.io/fb_demo_pg.io : does not use flex layout
+[2024-05-14T16:41:42.260] [DEBUG] default - https://www.a2books.org :  use flex layout
+[2024-05-14T16:41:48.667] [DEBUG] default - https://www.gjirokastra.org : does not use flex layout
+[2024-05-14T16:41:49.099] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.pentahousing.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:41:49.100] [DEBUG] default - http://www.pentahousing.com : does not use flex layout
+[2024-05-14T16:41:56.043] [DEBUG] default - https://www.steparu.com : does not use flex layout
+[2024-05-14T16:42:00.992] [DEBUG] default - https://www.benvan.co.uk : does not use flex layout
+[2024-05-14T16:42:04.490] [DEBUG] default - https://www.imaginetheatre.co.uk : does not use flex layout
+[2024-05-14T16:42:06.000] [DEBUG] default - https://precioustalkativecertifications--reppro.repl.co/ : does not use flex layout
+[2024-05-14T16:42:10.499] [DEBUG] default - https://www.heathceramics.com :  use flex layout
+[2024-05-14T16:42:17.345] [DEBUG] default - http://www.dyskurs.com.ua : does not use flex layout
+[2024-05-14T16:42:21.765] [DEBUG] default - https://www.usimmigrationsupport.org :  use flex layout
+[2024-05-14T16:42:31.951] [DEBUG] default - https://www.ycsports.com : does not use flex layout
+[2024-05-14T16:42:40.001] [DEBUG] default - https://www.national.co.uk :  use flex layout
+[2024-05-14T16:42:42.031] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://www.radiomacondo.fm
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:42:42.031] [DEBUG] default - https://www.radiomacondo.fm : does not use flex layout
+[2024-05-14T16:42:46.163] [DEBUG] default - https://www.sethapter.com : does not use flex layout
+[2024-05-14T16:42:49.699] [DEBUG] default - https://www.nightingale-collaboration.org : does not use flex layout
+[2024-05-14T16:42:50.276] [DEBUG] default - https://zellepay9-1211c.firebaseapp.com/ : does not use flex layout
+[2024-05-14T16:42:50.555] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.ocr.urlfb.co
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:42:50.556] [DEBUG] default - http://www.ocr.urlfb.co : does not use flex layout
+[2024-05-14T16:42:52.089] [DEBUG] default - https://www.navaltoday.com : does not use flex layout
+[2024-05-14T16:42:52.700] [DEBUG] default - https://miseajourespacedigital.firebaseapp.com/ : does not use flex layout
+[2024-05-14T16:42:55.039] [DEBUG] default - https://www.blackstoneappliances.com : does not use flex layout
+[2024-05-14T16:42:58.210] [DEBUG] default - https://www.oldnorth.com :  use flex layout
+[2024-05-14T16:43:16.068] [DEBUG] default - https://www.londonsvenskar.com : does not use flex layout
+[2024-05-14T16:43:20.006] [DEBUG] default - https://www.cenhud.com :  use flex layout
+[2024-05-14T16:43:28.109] [DEBUG] default - https://www.bylt.org : does not use flex layout
+[2024-05-14T16:43:30.064] [DEBUG] default - https://www.bei-galfes.com/wp-content/plugins/awjuegy/includes/wellsfargo.com.asp.aws/wells/pafe_a.php : does not use flex layout
+[2024-05-14T16:43:30.944] [DEBUG] default - https://cnouslsmchan.firebaseapp.com/ : does not use flex layout
+[2024-05-14T16:43:34.584] [DEBUG] default - https://www.pointsandtravel.com :  use flex layout
+[2024-05-14T16:43:35.208] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.centetraining.cloud
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:43:35.209] [DEBUG] default - http://www.centetraining.cloud : does not use flex layout
+[2024-05-14T16:43:48.343] [DEBUG] default - https://www.deinz-fotografie.de :  use flex layout
+[2024-05-14T16:44:10.308] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_CONNECTION_TIMED_OUT at http://www.cattree.1x.biz
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:44:10.308] [DEBUG] default - http://www.cattree.1x.biz : does not use flex layout
+[2024-05-14T16:44:13.806] [DEBUG] default - https://www.kgou.org : does not use flex layout
+[2024-05-14T16:44:18.835] [DEBUG] default - https://www.bhutanstudies.org.bt : does not use flex layout
+[2024-05-14T16:44:22.638] [DEBUG] default - https://www.genoanevada.org : does not use flex layout
+[2024-05-14T16:44:25.542] [DEBUG] default - https://www.indianolatx.com : does not use flex layout
+[2024-05-14T16:44:33.991] [DEBUG] default - https://www.telegraf.rs : does not use flex layout
+[2024-05-14T16:44:38.072] [DEBUG] default - https://www.gaudimusic.com :  use flex layout
+[2024-05-14T16:44:43.512] [DEBUG] default - https://www.bpnnw.com/jp.php : does not use flex layout
+[2024-05-14T16:44:47.073] [DEBUG] default - https://www.newvisionart.com : does not use flex layout
+[2024-05-14T16:45:07.710] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_CONNECTION_RESET at https://id.app.com.54-160-68-131.cprapid.com/es/info/
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:45:07.711] [DEBUG] default - https://id.app.com.54-160-68-131.cprapid.com/es/info/ : does not use flex layout
+[2024-05-14T16:45:18.179] [DEBUG] default - https://www.pett-mode.de : does not use flex layout
+[2024-05-14T16:45:20.995] [DEBUG] default - https://www.panspermia.org : does not use flex layout
+[2024-05-14T16:45:51.287] [ERROR] default - Error extracting HTML and CSS: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new Deferred (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:59:34)
+    at Deferred.create (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:21:16)
+    at new LifecycleWatcher (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\LifecycleWatcher.js:65:60)
+    at CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:136:29)
+    at CdpFrame.<anonymous> (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\decorators.js:98:27)
+    at CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:43)
+    at extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:20)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:45:51.288] [DEBUG] default - https://www.fsi.illinois.edu : does not use flex layout
+[2024-05-14T16:45:51.907] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://optonline-access.ga/secure/document/authentication/
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:45:51.908] [DEBUG] default - http://optonline-access.ga/secure/document/authentication/ : does not use flex layout
+[2024-05-14T16:45:56.570] [DEBUG] default - https://www.jakecii.fr : does not use flex layout
+[2024-05-14T16:45:58.322] [DEBUG] default - https://www.thelmagazine.com : does not use flex layout
+[2024-05-14T16:46:02.135] [DEBUG] default - https://www.erikfriedlander.com : does not use flex layout
+[2024-05-14T16:46:08.648] [DEBUG] default - https://www.burtsbees.com :  use flex layout
+[2024-05-14T16:46:12.790] [DEBUG] default - https://www.hilgos.org : does not use flex layout
+[2024-05-14T16:46:19.222] [DEBUG] default - https://www.bao.am :  use flex layout
+[2024-05-14T16:46:22.682] [DEBUG] default - https://www.comedyminusone.com : does not use flex layout
+[2024-05-14T16:46:24.594] [ERROR] default - Error extracting HTML and CSS: Error: Execution context was destroyed, most likely because of a navigation.
+    at rewriteError (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:281:15)
+    at async #evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:220:60)
+    at async ExecutionContext.evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:117:16)
+    at async IsolatedWorld.evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\IsolatedWorld.js:124:16)
+    at async CdpFrame.evaluate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:342:20)
+    at async CdpFrame.content (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:510:20)
+    at async CdpPage.content (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:519:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:19:22)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:46:24.595] [DEBUG] default - https://www.mediapipe.dev : does not use flex layout
+[2024-05-14T16:46:28.783] [DEBUG] default - https://www.montreat.edu :  use flex layout
+[2024-05-14T16:46:30.085] [DEBUG] default - http://www.com-archive.site : does not use flex layout
+[2024-05-14T16:46:45.408] [DEBUG] default - https://www.oxfordmusiconline.com : does not use flex layout
+[2024-05-14T16:46:46.030] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.sope.purpledaily.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:46:46.031] [DEBUG] default - http://www.sope.purpledaily.com : does not use flex layout
+[2024-05-14T16:46:52.400] [DEBUG] default - https://www.iridaresort.gr : does not use flex layout
+[2024-05-14T16:46:55.638] [DEBUG] default - https://www.dancingrabbit.org :  use flex layout
+[2024-05-14T16:47:06.552] [DEBUG] default - https://www.oag.ca.gov : does not use flex layout
+[2024-05-14T16:47:10.888] [DEBUG] default - https://www.ascasonline.org : does not use flex layout
+[2024-05-14T16:47:11.376] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://pan-cake.finance
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:47:11.377] [DEBUG] default - http://pan-cake.finance : does not use flex layout
+[2024-05-14T16:47:12.836] [DEBUG] default - https://web-a69ee.firebaseapp.com/ : does not use flex layout
+[2024-05-14T16:47:16.921] [DEBUG] default - https://www.aares.info : does not use flex layout
+[2024-05-14T16:47:38.343] [DEBUG] default - https://www.fosteropenscience.eu : does not use flex layout
+[2024-05-14T16:47:40.471] [DEBUG] default - https://www.pligg.com : does not use flex layout
+[2024-05-14T16:47:42.479] [DEBUG] default - https://www.footballclubdemarseille.fr : does not use flex layout
+[2024-05-14T16:47:44.707] [DEBUG] default - https://www.kinfolk.com : does not use flex layout
+[2024-05-14T16:47:51.335] [DEBUG] default - https://www.kiyolo.com : does not use flex layout
+[2024-05-14T16:47:54.246] [DEBUG] default - https://alertascliente.webcindario.com/ : does not use flex layout
+[2024-05-14T16:47:58.091] [DEBUG] default - https://www.mcaa.gov.mn : does not use flex layout
+[2024-05-14T16:48:02.173] [DEBUG] default - https://www.fromsandy.com :  use flex layout
+[2024-05-14T16:48:14.774] [DEBUG] default - https://www.alliancy.fr : does not use flex layout
+[2024-05-14T16:48:18.223] [DEBUG] default - https://www.webprem.com :  use flex layout
+[2024-05-14T16:48:24.281] [DEBUG] default - https://www.ocm.gov.kh : does not use flex layout
+[2024-05-14T16:48:27.574] [DEBUG] default - https://www.northglenn-thorntonsentinel.com :  use flex layout
+[2024-05-14T16:48:57.871] [ERROR] default - Error extracting HTML and CSS: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new Deferred (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:59:34)
+    at Deferred.create (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:21:16)
+    at new LifecycleWatcher (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\LifecycleWatcher.js:65:60)
+    at CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:136:29)
+    at CdpFrame.<anonymous> (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\decorators.js:98:27)
+    at CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:43)
+    at extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:20)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:48:57.872] [DEBUG] default - https://www.materialstoday.com : does not use flex layout
+[2024-05-14T16:49:04.255] [DEBUG] default - http://www.1shop.de :  use flex layout
+[2024-05-14T16:49:15.795] [DEBUG] default - https://www.rcsed.ac.uk :  use flex layout
+[2024-05-14T16:49:21.676] [DEBUG] default - https://www.visithoustontexas.com : does not use flex layout
+[2024-05-14T16:49:26.237] [DEBUG] default - https://www.mupuf.org : does not use flex layout
+[2024-05-14T16:49:31.680] [DEBUG] default - https://www.boxcutters.net :  use flex layout
+[2024-05-14T16:49:35.417] [DEBUG] default - http://www.pateu.freevar.com : does not use flex layout
+[2024-05-14T16:49:46.035] [DEBUG] default - https://www.vanityfairmovie.com : does not use flex layout
+[2024-05-14T16:50:06.887] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_CONNECTION_RESET at https://www.metlika.si
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:50:06.888] [DEBUG] default - https://www.metlika.si : does not use flex layout
+[2024-05-14T16:50:12.663] [DEBUG] default - https://www.replacealens.com : does not use flex layout
+[2024-05-14T16:50:13.877] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_CERT_COMMON_NAME_INVALID at https://www.openthedata.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:50:13.878] [DEBUG] default - https://www.openthedata.com : does not use flex layout
+[2024-05-14T16:50:17.717] [DEBUG] default - https://www.inkodu.ee : does not use flex layout
+[2024-05-14T16:50:22.673] [DEBUG] default - http://www.adamnews.for.ug : does not use flex layout
+[2024-05-14T16:50:27.863] [DEBUG] default - https://www.senalmemoria.co : does not use flex layout
+[2024-05-14T16:50:32.555] [DEBUG] default - https://www.cookiesbygeorge.com : does not use flex layout
+[2024-05-14T16:50:34.515] [DEBUG] default - https://www.worldsolarchallenge.org : does not use flex layout
+[2024-05-14T16:50:35.874] [DEBUG] default - https://b3232ac6-830e-46c9-b0ed-a6809b523bd1.id.repl.co/ : does not use flex layout
+[2024-05-14T16:50:41.791] [DEBUG] default - https://www.pastelsocietyofamerica.org : does not use flex layout
+[2024-05-14T16:50:47.101] [DEBUG] default - https://www.abladvisor.com : does not use flex layout
+[2024-05-14T16:50:51.544] [DEBUG] default - https://www.bryjo.com :  use flex layout
+[2024-05-14T16:50:57.340] [DEBUG] default - https://www.dissonance.ch : does not use flex layout
+[2024-05-14T16:50:58.049] [DEBUG] default - https://www.city.aomori.aomori.jp : does not use flex layout
+[2024-05-14T16:51:04.008] [DEBUG] default - https://www.aldakur.net : does not use flex layout
+[2024-05-14T16:51:06.111] [DEBUG] default - https://www.thepenn.org : does not use flex layout
+[2024-05-14T16:51:06.715] [DEBUG] default - https://business01872961.web.app/ : does not use flex layout
+[2024-05-14T16:51:08.087] [DEBUG] default - https://www.impresspages.org : does not use flex layout
+[2024-05-14T16:51:24.796] [DEBUG] default - https://www.wmta.org : does not use flex layout
+[2024-05-14T16:51:35.939] [DEBUG] default - https://www.charmingitaly.com :  use flex layout
+[2024-05-14T16:51:37.559] [DEBUG] default - http://metamaskreview.godaddysites.com : does not use flex layout
+[2024-05-14T16:51:41.655] [DEBUG] default - https://www.businessbroker.net :  use flex layout
+[2024-05-14T16:51:45.504] [DEBUG] default - https://www.ce.washington.edu : does not use flex layout
+[2024-05-14T16:51:45.907] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.helpdesk.hotmail-onlines.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:51:45.908] [DEBUG] default - http://www.helpdesk.hotmail-onlines.com : does not use flex layout
+[2024-05-14T16:51:51.962] [DEBUG] default - https://www.hansflorine.com : does not use flex layout
+[2024-05-14T16:51:54.874] [DEBUG] default - https://www.fitocracy.com : does not use flex layout
+[2024-05-14T16:51:55.256] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.kuerennkaycoato-co-jp.kuercnokayccata.rzyddn.top/ai/?authenticated=true&amp;amp;openid/gp/signin/x&amp;i=a&amp;oauth=m&amp;i?ie=utf8&amp;ref_=rhf_custrec_signinc3c9e4b3d5723edfabbbdb684f7299da568cf9c8
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:51:55.257] [DEBUG] default - http://www.kuerennkaycoato-co-jp.kuercnokayccata.rzyddn.top/ai/?authenticated=true&amp;amp;openid/gp/signin/x&amp;i=a&amp;oauth=m&amp;i?ie=utf8&amp;ref_=rhf_custrec_signinc3c9e4b3d5723edfabbbdb684f7299da568cf9c8 : does not use flex layout
+[2024-05-14T16:52:03.228] [DEBUG] default - https://www.buddhismforkids.net : does not use flex layout
+[2024-05-14T16:52:03.528] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at https://www.nicelyorganized.nl
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:52:03.529] [DEBUG] default - https://www.nicelyorganized.nl : does not use flex layout
+[2024-05-14T16:52:08.035] [DEBUG] default - https://www.cindyssuds.com : does not use flex layout
+[2024-05-14T16:52:10.180] [DEBUG] default - https://www.ckeep.com : does not use flex layout
+[2024-05-14T16:52:15.108] [DEBUG] default - https://www.nlnetlabs.nl : does not use flex layout
+[2024-05-14T16:52:17.188] [DEBUG] default - https://www.pillarhomes.com.au : does not use flex layout
+[2024-05-14T16:52:25.437] [DEBUG] default - http://www.joiavip.com.br : does not use flex layout
+[2024-05-14T16:52:27.630] [DEBUG] default - https://www.investordaily.com.au :  use flex layout
+[2024-05-14T16:52:28.875] [DEBUG] default - https://www.professorbainbridge.com :  use flex layout
+[2024-05-14T16:52:29.301] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://accessobperbanca.zapatradex.com/
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:52:29.302] [DEBUG] default - http://accessobperbanca.zapatradex.com/ : does not use flex layout
+[2024-05-14T16:52:29.909] [DEBUG] default - https://hhu7u4sfmv.web.app/ : does not use flex layout
+[2024-05-14T16:52:30.330] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_NAME_NOT_RESOLVED at http://www.havanaprom.com
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:52:30.331] [DEBUG] default - http://www.havanaprom.com : does not use flex layout
+[2024-05-14T16:52:38.288] [DEBUG] default - https://www.zadar-airport.hr : does not use flex layout
+[2024-05-14T16:52:42.014] [DEBUG] default - https://www.qrtag.net : does not use flex layout
+[2024-05-14T16:52:43.003] [DEBUG] default - https://att-102707.square.site/ : does not use flex layout
+[2024-05-14T16:53:04.580] [ERROR] default - Error extracting HTML and CSS: Error: net::ERR_CONNECTION_RESET at https://www.meetchu.kr
+    at navigate (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:171:27)
+    at async Deferred.race (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:36:20)
+    at async CdpFrame.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:137:25)
+    at async CdpPage.goto (D:\thesis\webscraping\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:590:20)
+    at async extractHTMLAndCSS (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:16:9)
+    at async countFlexBox (D:\thesis\webscraping\src\check_flexbox_puppeTeer.js:54:32)
+[2024-05-14T16:53:04.581] [DEBUG] default - https://www.meetchu.kr : does not use flex layout

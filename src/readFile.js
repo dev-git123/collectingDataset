@@ -11,4 +11,5 @@ fs.createReadStream('urls.csv')
   })
   .on('end', () => {
     console.log(results);
+    results.map( x -> x)
   });
