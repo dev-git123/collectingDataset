@@ -21,20 +21,20 @@ async function processLineByLine() {
         line.indexOf("/") + 1, 
         line.lastIndexOf(".")
     );
-    pt.launch().then(async browser => {
-        //browser new page
-        const p = await browser.newPage();
-        //set viewpoint of browser page
-        await p.setViewport({ width: 1000, height: 500 })
-        //launch URL
-        await p.goto(line)
-        //capture screenshot
-        await p.screenshot({
-        path: 'outputs/screenshots/'+fileName+'.png'
-        });
-        //browser close
-        await browser.close()
-        })
+//     pt.launch().then(async browser => {
+//         //browser new page
+//         const p = await browser.newPage();
+//         //set viewpoint of browser page
+//         await p.setViewport({ width: 1000, height: 500 })
+//         //launch URL
+//         await p.goto(line)
+//         //capture screenshot
+//         await p.screenshot({
+//         path: 'outputs/screenshots/'+fileName+'.png'
+//         });
+//         //browser close
+//         await browser.close()
+//         })
    
 }
     }
